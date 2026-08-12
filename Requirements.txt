@@ -1,0 +1,54 @@
+# =========================
+# Python 3.12
+# =========================
+
+# Audio / Video
+yt-dlp==2025.8.22
+pydub==0.25.1
+ffmpeg-python==0.2.0
+
+# Whisper
+openai-whisper==20250625
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+
+# Translation
+deep-translator==1.11.4
+
+# LangChain
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-community==0.3.27
+langchain-text-splitters==0.3.9
+langchain-chroma==0.2.5
+langchain-huggingface==0.3.1
+langchain-mistralai==0.2.11
+
+# Mistral
+mistralai==1.9.10
+
+# Vector Database
+chromadb==1.0.20
+
+# Embeddings
+sentence-transformers==5.1.0
+transformers==4.55.2
+huggingface-hub==0.34.4
+tiktoken==0.11.0
+
+# Streamlit
+streamlit==1.47.1
+streamlit-extras==0.7.6
+watchdog==6.0.0
+
+# PDF
+reportlab==4.4.3
+fpdf2==2.8.4
+
+# Utilities
+python-dotenv==1.1.1
+numpy==2.3.2
+requests==2.32.5
+tqdm==4.67.1
+pillow==11.3.0
